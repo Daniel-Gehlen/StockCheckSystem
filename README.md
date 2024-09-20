@@ -4,6 +4,8 @@
 
 The Stock Check System is a web application that allows users to manage product stock levels. It utilizes an ASP.NET Core Web API for backend services and static HTML/CSS/JavaScript files for the frontend.
 
+![Stock.png](assets/Stock.png)
+
 ## Technologies Used
 
 - **Backend**: 
