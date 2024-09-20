@@ -92,7 +92,7 @@ StockCheckSystem
    
     Or, Put the index.html into the browser. 
     
-    **Osv**, don't open the link that PI generates because otherwise it won't work.
+    **Osv**, don't open the link that API generates because otherwise it won't work.
 
 ### API Documentation
 
